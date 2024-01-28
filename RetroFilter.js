@@ -1,4 +1,3 @@
-// RetroFilter.js
 import React from 'react';
 import { Surface } from 'gl-react-native';
 import { GLSL, Node, Shaders } from 'gl-react';
