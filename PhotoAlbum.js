@@ -1,4 +1,3 @@
-// PhotoAlbum.js
 import React from 'react';
 import { View, Text, FlatList, StyleSheet, Image } from 'react-native';
 
@@ -33,7 +32,7 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     marginRight: 10,
-    alignItems: 'flex-end', // Align content to the bottom right
+    alignItems: 'flex-end', 
   },
   albumImage: {
     width: 100,
