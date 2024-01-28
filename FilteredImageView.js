@@ -1,8 +1,7 @@
 // FilteredImageView.js
 import React from 'react';
-import RetroFilter from './RetroFilter';
 import { Image, StyleSheet } from 'react-native';
-
+import RetroFilter from './RetroFilter';
 
 const FilteredImageView = ({ filteredImage }) => {
   return (
